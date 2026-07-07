@@ -17,6 +17,3 @@ You can execute and test each PoC interactively using Google Colab without any l
 
 *Note: The temporary cloud instance will automatically shut down after 15-30 minutes of inactivity. If the interface stops responding, simply click "Run all" again to re-initialize.*
 
-
-## Mind Filter PoC
-[👉 點擊這裡：打開 Google Colab 👈](https://colab.research.google.com/github/26200602/my-colab-poc/blob/main/Missinglink_V04_phython.ipynb)
