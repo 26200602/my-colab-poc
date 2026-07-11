@@ -31,5 +31,5 @@ Welcome to the AI Proof of Concept (PoC) repository, featuring high-level AI orc
 *Note: The environment may timeout after inactivity; simply re-run the cells if necessary.*
 
 
-This document was structured with the help of AI, and curated by MSK
+This document was structured with the help of AI, and curated by Sana.M.
 
