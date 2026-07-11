@@ -12,7 +12,7 @@ Welcome to the AI Proof of Concept (PoC) repository, featuring high-level AI orc
 **Description:** A human-centric cognitive optimization tool that converts unstructured data and chaotic operations into structured, executive-ready thought matrices.
 
 ### 🛡️ PoC 2: Resource Entropy & Orchestration Sandbox
-[![Open In Colab](https://img.shields.io/badge/Open%20In%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/26200602/my-colab-poc/blob/main/Resource_Entropy_Orchestration.ipynb)
+[![Open In Colab](https://img.shields.io/badge/Open%20In%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/26200602/my-colab-poc/blob/main/sia_fsm_boundary_sandbox.ipynb)
 
 **Description:** An executive-ready governance sandbox demonstrating how Sovereign Infrastructure Architecture (SIA) mitigates systemic corporate risk. It replaces unsafe probabilistic AI actions with an immutable, deterministic framework designed to detect and intercept advanced operational threats.
 
