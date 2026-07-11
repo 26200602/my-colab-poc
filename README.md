@@ -62,5 +62,60 @@ graph TD
 
 *Note: The environment may timeout after inactivity; simply re-run the cells if necessary.*
 
+# AI PoC Portfolio
+
+Welcome to the AI Proof of Concept (PoC) repository, featuring high-level AI orchestration, data security frameworks, and sovereign infrastructure design, with interactive testing via Google Colab.
+
+---
+
+## Available Proof of Concepts
+
+### 🚀 PoC 1: Mind Filter (SimPoC)
+
+> [!WARNING]
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/26200602/my-colab-poc/blob/main/Missinglink_V04_phython.ipynb)
+
+**Description:** A human-centric cognitive optimization tool that converts unstructured data and chaotic operations into structured, executive-ready thought matrices.
+
+### 🛡️ PoC 2: Resource Entropy & Orchestration Sandbox
+
+> [!WARNING]
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/26200602/my-colab-poc/blob/main/sia_fsm_boundary_sandbox.ipynb)
+
+**Description:** An executive-ready governance sandbox demonstrating how Sovereign Infrastructure Architecture (SIA) mitigates systemic corporate risk via deterministic state containment.
+
+---
+
+## Deterministic Governance Architecture
+
+The workflow below illustrates the network-wide verification and FSM state containment sequence during a critical risk event:
+
+```mermaid
+graph TD
+    A[External Input: Urgent High-Value Wire Transfer] --> B{SIA Engine Room: GraphRAG}
+    B -->|Scan Entity Isolation Layer| C[Factoid 1: Transfer Request]
+    B -->|Asynchronous Relationship Extraction| D[Factoid 2: Requires CFO Approval]
+    B -->|Asynchronous Relationship Extraction| E[Factoid 3: CFO on Medical Leave]
+    
+    C & D & E --> F[Multi-Hop Reasoning & Logic Topology]
+    F --> G{Risk Threshold Evaluator}
+    
+    G -->|No Anomalies Detected| H[State: Automated Execution]
+    G -->|Risk Threshold Breach| I[FSM State Transition: Emergency Lockdown]
+    
+    I --> J[Compile Context-Aware Decision Packet]
+    J --> K[Executive Proxy Action Interface]
+    
+    K --> L[Reschedule]
+    K --> M[Delegate]
+    K --> N[Takeover]
+    K --> O[Approved via Override Protocol]
+
+    style I fill:#f9f,stroke:#333,stroke-width:2px
+    style H fill:#bbf,stroke:#333,stroke-width:1px
+
+```
+
+
 This document was structured with the help of AI, and curated by MSK
 
